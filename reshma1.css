@@ -1,0 +1,53 @@
+﻿body {
+      font-family: Georgia, "Times New Roman",
+        Times, serif;
+      color: black;
+      background-color:#A5E2F9
+    }
+
+    h1 {
+    font-family:'Times New Roman';
+      margin-left: 400px; }
+
+    nav {
+     margin-left: 380px;
+    }
+
+    img {
+      border-radius: 8px;      
+      border: 2px solid black;
+      width: 250px;
+      height: 270px;
+    }
+   p {
+     text-align: center
+     font-family: Helvetica
+   }    
+   h3 {
+      text-align: center
+    }
+  .foto3 { 
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px; 
+    float:right;
+    width: 230px; 
+    height: 300px;
+    }  
+  .foto2 { 
+     padding: 10px;
+    margin: 10px; 
+    border: 2px solid black;
+    float: right; 
+    width: 300px; 
+    height: 280px;
+    }
+ .foto1 { 
+     padding: 10px;
+   margin-left: 130px
+    margin: 10px; 
+    border: 2px solid black;
+    float: right; 
+    width: 280px; 
+    height: 361px;
+    }  
